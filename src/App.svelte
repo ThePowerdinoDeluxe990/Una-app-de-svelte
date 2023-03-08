@@ -17,26 +17,28 @@
 
   //Funciones para el subtitulo
   function subtitulored() {
-    document.getElementById("Subtitle2").style.color="red";
+    document.getElementById("Subtitle2").style.color = "red";
   }
   function subtitulogreen() {
-     document.getElementById("Subtitle2").style.color="green";
+    document.getElementById("Subtitle2").style.color = "green";
   }
   function subtituloblue() {
-     document.getElementById("Subtitle2").style.color="blue";
+    document.getElementById("Subtitle2").style.color = "blue";
   }
-  
+
   //Funciones para el texto
   function textored() {
-    document.getElementById("Texto2").style.color="red";
+    document.getElementById("Texto2").style.color = "red";
   }
   function textogreen() {
-     document.getElementById("Texto2").style.color="green";
+    document.getElementById("Texto2").style.color = "green";
   }
   function textoblue() {
-     document.getElementById("Texto2").style.color="blue";
+    document.getElementById("Texto2").style.color = "blue";
   }
 </script>
+
+<title>Creador de textos Svelte</title>
 
 <h2>Creador de textos</h2>
 
