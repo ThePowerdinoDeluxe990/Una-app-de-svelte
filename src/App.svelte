@@ -144,7 +144,6 @@
     position: relative;
     left: 330px;
     padding-top: 20px;
-
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
     color: dark;
   }
